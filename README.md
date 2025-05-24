@@ -1,8 +1,8 @@
-Online Admission Registration Form (PHP + MySQL)
+## Online Admission Registration Form (PHP + MySQL)
 
 This project is a dynamic college admission registration form built using HTML, CSS, PHP, and MySQL. It allows students to register their details, which are securely stored in a MySQL database.
 
-Features
+## Features
 
 - Web-based form for student registration
 - Inputs: Full Name, Email, Password
@@ -11,7 +11,7 @@ Features
 - Responsive UI with branded college background image
 - Runs locally using XAMPP
 
-Technologies Used
+## Technologies Used
 
 - HTML5 & CSS3
 - PHP (server-side scripting)
@@ -19,7 +19,7 @@ Technologies Used
 - XAMPP (Apache + MySQL)
 - phpMyAdmin (for database access)
 
-How to Run
+## How to Run
 
 1. Start Apache and MySQL in XAMPP.
 2. Place the project folder in:
@@ -31,13 +31,13 @@ How to Run
 http://localhost/registration_form/index.html
 6. Fill the form → Click Register → Data is inserted into the database.
 
-Future Scope
+## Future Scope
 
 - Add login and authentication
 - Email/SMS confirmation
 - Admin panel to manage submissions
 
-Developed by
+## Developed by
 
 Shrawani  
 [GitHub](https://github.com/Shrawani-1394)
